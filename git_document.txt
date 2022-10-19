@@ -7,3 +7,29 @@ step-3- Enter the repo name
 step-4- Click on create repo
 
 step-5- Your repo is created
+
+strp-6- Open the folder which u want to push
+
+step-7- click on right mouse button and then open git bash here
+
+step-8- Run the command git init on git bash
+
+step-9- Run command git status
+
+step-10- file in red showing that this file is updated
+
+step-11- if u want to add that file run command git add file_name
+
+step-12- Again run command git status
+
+step-13- Now the file in red is showing in blue which means that file is ready to push in ur repo
+
+step-14- Run command- git commit -m "first commit" where first commit is the message which u change if u want
+
+step-15- Run command git remote add origin https://github.com/akanksha2303/practise.git
+
+step-16- Run command git branch -M main
+
+step-17- Now push the code by running  command git push -u origin main
+
+step-18- Congrats ur code is pushed
