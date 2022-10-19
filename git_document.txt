@@ -1,0 +1,9 @@
+step-1-  Go to https://github.com/
+
+step-2- Click on new button on left hand side
+
+step-3- Enter the repo name
+
+step-4- Click on create repo
+
+step-5- Your repo is created
